@@ -171,7 +171,8 @@
 					<forkCount>3</forkCount>
 					<reuseForks>true</reuseForks>
 					<suiteXmlFiles>
-						<suiteXmlFile>\src\test\resource\TestRunners\testng.xml</suiteXmlFile>
+						<suiteXmlFile>\src\test\resource\TestRunners\testng1.xml</suiteXmlFile>
+						<suiteXmlFile>\src\test\resource\TestRunners\testng2.xml</suiteXmlFile>
 						<!-- <suiteXmlFile>${suiteXmlFile}</suiteXmlFile> -->
 					</suiteXmlFiles>
 
